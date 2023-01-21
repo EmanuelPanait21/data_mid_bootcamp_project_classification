@@ -1,5 +1,5 @@
 # Mid-bootcamp project deliverables
-
+https://docs.google.com/presentation/d/1yQdudSM8-xxnVrwCdk8SqDnUqaiz9GwJ/edit?usp=sharing&ouid=106259473678692783392&rtpof=true&sd=true
 You should maintain a separate GitHub repo for this project with the following files:
 
 - `Readme.md` - This markdown will explain the data analysis workflow including the problem statement/ business the objective, data extraction, data wrangling, etc. Here you should explain the business analytic approach you used to solve the problem. Please be detailed in explaining the steps you followed. It is important to keep in mind that the document is written for the readers, who may or may not have the technical expertise with Python/SQL/Tableau.
